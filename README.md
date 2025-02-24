@@ -8,10 +8,10 @@
 
 
 ### 💡 My Specialization:  
-🔹 Transform raw data into actionable insights to drive data-driven decision-making.  
-🔹 Utilize Python, SQL, and Excel to solve real-world business problems 🛠️  
-🔹 Perform data cleaning, wrangling, and modeling to extract meaningful patterns 🧩 
-🔹 Work with various data visualization tools, including Power BI and Tableau 📈   
+🔹 Transform raw data into actionable insights to drive data-driven decision-making.       
+🔹 Utilize Python, SQL, and Excel to solve real-world business problems.       
+🔹 Perform data cleaning, wrangling, and modeling to extract meaningful patterns.       
+🔹 Work with various data visualization tools, including Power BI and Tableau.  
 🔹 Develop interactive dashboards and visualizations for effective data communication.
 
 ---
